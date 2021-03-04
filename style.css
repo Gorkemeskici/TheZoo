@@ -1,0 +1,25 @@
+body {font-family: sans-serif;
+  color: black;
+  background: : white;}
+nav  {background: #EAFCCB;
+nav a {color: white;}
+}
+h1  {background: #D8F55A;}
+h1 {color: white;
+text-align: right}
+
+ol li {font-family: sans-serif;}
+
+.urgent  {
+color: green;
+font-size: 25px}
+
+.responsive { max-width: 100%;
+  height:auto}
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: blue;
+    }
+  }
+h5 {color: green}
